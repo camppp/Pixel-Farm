@@ -1,4 +1,6 @@
 # Pixel-Farm
+A Crop Art Planning Solution Based On Image Recognition and Dimension Reduction 
+http://lyuxuan.com/MinneHack/index.php
 
 # Inspiration
 
